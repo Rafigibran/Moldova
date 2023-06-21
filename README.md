@@ -1,19 +1,17 @@
 # Moldova
-Buat aplikasimu sendiri
+Buat aplikasimu sendiri!! 
 
-Moldova adalah aplikasi yang mempunyai AI untuk generate gambar
+Moldova adalah aplikasi yang mempunyai AI untuk generate gambar. 
 
 Aplikasi ini hanya menggunakan API.
 
 Ini adalah aplikasi AI yang dapat menghasilkan gambar hanya dengan menuliskan Prompt.
 
 
-Catatan:
-
+Catatan: 
 Ini hanya menggunakan API.
 
-Caranya:
-
+Caranya: 
 Kamu hanya membutuhkan API KEY, untuk mendapatkannya pergi ke situs OpenAI.
 
 Jika kamu sudah punya API KEY, pergi ke DallE.java lalu lihat: private static final String apiKey = "api-key";
