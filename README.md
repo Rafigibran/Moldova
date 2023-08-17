@@ -8,10 +8,6 @@ Catatan: Ini hanya menggunakan API
 
 Caranya: Kamu hanya membutuhkan API KEY, untuk mendapatkannya pergi ke situs OpenAI.
 
-Selamat!!
-
-Kamu sudah punya aplikasi yang ada AI penghasil gambar.
-
 
 ## CARA MENGGANTI API
 
