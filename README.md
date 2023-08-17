@@ -15,7 +15,7 @@ Kamu sudah punya aplikasi yang ada AI penghasil gambar.
 
 ## CARA MENGGANTI API
 
-#### FILE
+#### PERGI KE FILE
 
 ```http
   DallE.java
@@ -23,7 +23,7 @@ Kamu sudah punya aplikasi yang ada AI penghasil gambar.
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `api-key` | `string` | **Required**. Your API key |
+| `api-key` | `string` | **Required**. Tempelkan API anda |
 
 
 ## Screenshots
