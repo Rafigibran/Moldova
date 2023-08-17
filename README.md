@@ -8,8 +8,6 @@ Catatan: Ini hanya menggunakan API
 
 Caranya: Kamu hanya membutuhkan API KEY, untuk mendapatkannya pergi ke situs OpenAI.
 
-Ubah tulisan api-key menggunakan API KEY yang sudah kamu dapatkan di situs OpenAI.
-
 Selamat!!
 
 Kamu sudah punya aplikasi yang ada AI penghasil gambar.
@@ -17,7 +15,7 @@ Kamu sudah punya aplikasi yang ada AI penghasil gambar.
 
 ## CARA MENGGANTI API
 
-#### API
+#### FILE
 
 ```http
   DallE.java
