@@ -1,6 +1,6 @@
 
 # Moldova
-ABuat aplikasimu sendiri!!
+Buat aplikasimu sendiri!!
 
 Moldova adalah aplikasi yang mempunyai AI untuk generate gambar
 
